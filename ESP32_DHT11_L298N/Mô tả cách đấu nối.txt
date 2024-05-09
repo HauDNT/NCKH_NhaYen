@@ -1,0 +1,7 @@
+DHT11 ------- ESP32
+(+)                  VIN
+OUT               D19
+(-)                   GND
+
+
+Cách kết nối L298N và ESP32 y như forder ESP32_L298N
