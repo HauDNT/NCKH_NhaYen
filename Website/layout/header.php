@@ -1,5 +1,3 @@
-<?php echo "HEllO WORLD"; die; ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
