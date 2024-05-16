@@ -19,7 +19,7 @@ $db = array(
     'hostname' => 'localhost',
     'username' => 'root',
     'password' => '',
-    'database' => 'environment_control_system',
+    'database' => 'environment_control_systeme',
 );
 
 

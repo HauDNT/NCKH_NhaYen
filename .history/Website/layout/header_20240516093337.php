@@ -1,4 +1,4 @@
-<?php echo "HEllO"; die; ?>
+<?php HEllO ?>
 
 <!DOCTYPE html>
 <html lang="en">
